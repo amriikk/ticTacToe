@@ -1,13 +1,16 @@
 body {
     text-align: center;
-    font-family: Tahoma, Helvetica, sans-serif;
-    background-color: navy;
-    color: azure;
+    font-family: 'Oswald', Tahoma, sans-serif;
+    background: url('https://i.imgur.com/PKMRjK9.jpg');
+    color: cyan;
     }
     
+h1 {
+    color: lightseagreen;
+}    
     
-h2 {
-    color: gray;
+h3 {
+    color: lightskyblue;
     margin: 0 auto;
     font-size: 35px;
     margin: 10px;
@@ -39,7 +42,9 @@ h2 {
     
     
 .square {
-    border: 2px solid rgba(0, 0, 0, .75);
+    border: 2px solid rgba(0, 204, 255, .85);
+    border-style: inset;
+    border-radius: 10px;
     height: 140px;
     width: 140px;
     font-size: 80px;
@@ -50,11 +55,13 @@ h2 {
     
     
 #reset-button {
-    background-color: yellow;
+    background-color: lightseagreen;
     text-align: center;
-    font-family: Tahoma, sans-serif;
+    font-family: 'Oswald', sans-serif;
     font-size: 20px;
-    border: 1px solid black;
+    border: 2px solid lightskyblue;
+    border-style: inset;
+    border-radius: 8px;
     height: 55px;
     width: 100px;
     margin: 10px;

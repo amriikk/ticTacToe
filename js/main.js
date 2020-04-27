@@ -22,7 +22,7 @@ const squares = Array.from(document.querySelectorAll('#board div'));
 
 /*----- event listeners -----*/
 document.getElementById('board').addEventListener('click', handleTurn);
-const messages = document.querySelector('h2');
+const messages = document.querySelector('h3');
 document.getElementById('reset-button').addEventListener('click', init);
 
 
