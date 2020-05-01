@@ -1,7 +1,7 @@
 # Tic.Tac.Toe
 ## John Trujillo
 
-## Intro :o: :heavy_multiplication_x:
+## Intro: :heavy_multiplication_x: :o:
 ### Traditional game of Tic Tac Toe for two players :busts_in_silhouette:
 
 ## Technologies Used:
