@@ -2,12 +2,12 @@ body {
     text-align: center;
     font-family: 'Oswald', Tahoma, sans-serif;
     background: url('https://i.imgur.com/PKMRjK9.jpg');
-    }
-    
+}
+
 h1 {
     color: lightseagreen;
 }    
-    
+
 h3 {
     color: lightskyblue;
     margin: 0 auto;
@@ -15,7 +15,7 @@ h3 {
     margin: 10px;
 }
     
-    
+
 .flex-container {
     /* In order to use flex-box we need to first set our display property */
     display: flex;
@@ -39,7 +39,6 @@ h3 {
     width: 432px;
 }
     
-    
 .square {
     background: url('https://i.imgur.com/BVhCmHO.jpg') ;
     border: 2px solid rgba(0, 204, 255, .85);
@@ -52,7 +51,6 @@ h3 {
     align-items: center;
     justify-content: center;
 }
-    
     
 #reset-button {
     background-color: lightseagreen;
