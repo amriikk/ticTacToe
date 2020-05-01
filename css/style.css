@@ -2,7 +2,6 @@ body {
     text-align: center;
     font-family: 'Oswald', Tahoma, sans-serif;
     background: url('https://i.imgur.com/PKMRjK9.jpg');
-    color: cyan;
     }
     
 h1 {
@@ -42,6 +41,7 @@ h3 {
     
     
 .square {
+    background: url('https://i.imgur.com/BVhCmHO.jpg') ;
     border: 2px solid rgba(0, 204, 255, .85);
     border-style: inset;
     border-radius: 10px;
